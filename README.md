@@ -1,4 +1,4 @@
-# Python Secure Hash Standad Implementation
+# Python Secure Hash Standard Implementation
 
 This project provides a Python implementation of the Secure Hash Standard (SHS), which specifies four secure hash algorithms: SHA-1, SHA-256, SHA-384, and SHA-512. The implementation is based on the specifications defined in the NIST FIPS PUB 180-4 document.
 
